@@ -1,0 +1,14 @@
+env
+__pycache__
+config.py
+
+####### Data section: Ignore everything except used data ########
+data/**/T19_G4_MAR_SPSS/**
+!asgmarm7.sav
+data/**/T19_G8_MAR_SPSS/**
+!bsgmarm7.sav
+data/T19*
+data/Study*
+data/TIMSS-2019-*
+data/TIMSS-2019_data/T19*
+

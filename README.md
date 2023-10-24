@@ -45,6 +45,7 @@ With:
 * 7723 being the number of Moroccan students participating in the study from 4th grade.
 * 8458 being the number of Moroccan students participating in the study from 8th grade.
 
-__Note__
+__Note:__
+
 Even if it may not be exactly the same as the official country score reported by TIMSS, the *mean of plausible scores* for all students within a country is a reasonable estimate of the country's overall performance. (see timss-2019_score_calculation.ipynb for more information)
 

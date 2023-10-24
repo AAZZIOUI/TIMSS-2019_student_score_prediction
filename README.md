@@ -1,10 +1,10 @@
 # TIMSS STUDENTS MATH SCORE PREDICTION MODEL
 ***
 ## Table Of Content:
-1. [Project status](#status)
-2. [Project overview](#overview)
-3. [About Data](#data)
-4. [Steps to tackle the project](#steps)
+1. [Project status](#project-status)
+2. [Project overview](#project-overview)
+3. [About Data](#about-data)
+4. [Steps to tackle the project](#steps-to-tackle-the-project)
 
 ## Project Status
 ***
@@ -45,6 +45,6 @@ With:
 * 7723 being the number of Moroccan students participating in the study from 4th grade.
 * 8458 being the number of Moroccan students participating in the study from 8th grade.
 
-** Note **
+__Note__
 Even if it may not be exactly the same as the official country score reported by TIMSS, the *mean of plausible scores* for all students within a country is a reasonable estimate of the country's overall performance. (see timss-2019_score_calculation.ipynb for more information)
 

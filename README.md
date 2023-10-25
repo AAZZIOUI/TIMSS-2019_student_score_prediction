@@ -8,17 +8,18 @@
 
 ## Project Status
 ***
+At Data wrangling
 
 ## Project Overview
 ***
 
-TIMSS, which stands for Trends in International Mathematics and Science Study, is a global evaluation program that tracks changes in student performance in mathematics and science. This assessment occurs on a quadrennial basis, with the most recent round taking place in 2019. Notably, Moroccan students have historically achieved relatively low scores in these assessments. Nevertheless, the Ministry of Education has been implementing novel educational methodologies in recent years. My aim is to assist in assessing the potential impact of these new approaches on Moroccan students' TIMSS scores before the next assessment cycle.
+>TIMSS, which stands for Trends in International Mathematics and Science Study, is a global evaluation program that tracks changes in student performance in mathematics and science. This assessment occurs on a quadrennial basis, with the most recent round taking place in 2019. Notably, Moroccan students have historically achieved relatively low scores in these assessments. Nevertheless, the Ministry of Education has been implementing novel educational methodologies in recent years. My aim is to assist in assessing the potential impact of these new approaches on Moroccan students' TIMSS scores before the next assessment cycle.
 
-This initiative involves the development of a machine learning model designed to predict the TIMSS mathematics scores of Moroccan students based on specific information related to these students. The primary objective is to utilize this model to estimate a student's score, taking into consideration their social, economic, and environmental context. Subsequently, the ministry can compare these estimated scores with the actual scores obtained by students who have learned mathematics through the new teaching approaches and undergone a similar evaluation to that of the TIMSS assessment.
+>This initiative involves the development of a machine learning model designed to predict the TIMSS mathematics scores of Moroccan students based on specific information related to these students. The primary objective is to utilize this model to estimate a student's score, taking into consideration their social, economic, and environmental context. Subsequently, the ministry can compare these estimated scores with the actual scores obtained by students who have learned mathematics through the new teaching approaches and undergone a similar evaluation to that of the TIMSS assessment.
 
 ## About Data:
 ***
-Data source : https://timss2019.org/international-database/ 
+>Data source : https://timss2019.org/international-database/ 
 
 I downloaded: 
 * SPSS data related to Morocco for both 4th and 8th grades.
@@ -45,7 +46,7 @@ With:
 * 7723 being the number of Moroccan students participating in the study from 4th grade.
 * 8458 being the number of Moroccan students participating in the study from 8th grade.
 
-__Note:__
+> [!NOTE]\ 
 
 Even if it may not be exactly the same as the official country score reported by TIMSS, the *mean of plausible scores* for all students within a country is a reasonable estimate of the country's overall performance. (see timss-2019_score_calculation.ipynb for more information)
 

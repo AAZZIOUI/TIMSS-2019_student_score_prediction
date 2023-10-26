@@ -2,11 +2,16 @@ env
 __pycache__
 config.py
 
-####### Data section: Ignore everything except used data ########
+####### Data section: Ignore everything except utilized data ########
 data/**/T19_G4_MAR_SPSS/**
 !asgmarm7.sav
 data/**/T19_G8_MAR_SPSS/**
+# Student context data
 !bsgmarm7.sav
+# Student-Teacher linkage
+!bstmarm7.sav
+# Techer context data
+!btmmarm7.sav
 data/T19*
 data/Study*
 data/TIMSS-2019-*

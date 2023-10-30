@@ -9,7 +9,8 @@
 ## Project Status
 ***
 - [x] Validation of the country score calculation process 
-- [ ] Data wrangling
+- [x] Data wrangling
+- [x] Data exploraion
 
 ## Project Overview
 ***

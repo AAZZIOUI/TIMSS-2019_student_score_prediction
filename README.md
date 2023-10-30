@@ -10,7 +10,7 @@
 ***
 - [x] Validation of the country score calculation process 
 - [x] Data wrangling
-- [x] Data exploraion
+- [ ] Data exploraion
 
 ## Project Overview
 ***

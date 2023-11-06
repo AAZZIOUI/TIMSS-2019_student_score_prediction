@@ -9,8 +9,10 @@
 ## Project Status
 ***
 - [x] Validation of the country score calculation process 
-- [x] Data wrangling
-- [ ] Data exploraion
+- [x] Data wrangling and preprocessing
+- [x] First Data exploration and choice of features
+- [x] Clusters creation
+- []  Model selection
 
 ## Project Overview
 ***

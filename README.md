@@ -12,6 +12,7 @@
 - [x] Data wrangling and preprocessing
 - [x] First Data exploration and choice of features
 - [x] Clusters creation
+- [x] Clusters quality evaluations
 - []  Model selection
 
 ## Project Overview
